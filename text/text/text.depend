@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525968108 source:c:\users\linh_gao_bac\desktop\new folder\text\text\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_image.h>
+

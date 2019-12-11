@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1526479085 source:c:\users\linh_gao_bac\desktop\new folder\sdl\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<SDL_main.h>
+	"Draw.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<mmsystem.h>
+
+1519932871 c:\mingw_dev_lib\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1526478734 source:c:\users\linh_gao_bac\desktop\new folder\sdl\draw.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_image.h>
+	"Draw.h"
+	"Cauhoi.h"
+	<fstream>
+
+1526478734 c:\users\linh_gao_bac\desktop\new folder\sdl\draw.h
+	<SDL.h>
+	<SDL_main.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+
+1526306360 c:\users\linh_gao_bac\desktop\new folder\sdl\cauhoi.h
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1526306360 source:c:\users\linh_gao_bac\desktop\new folder\sdl\cauhoi.cpp
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CauHoi.h"
+	<SDL.h>
+	"draw.h"
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1526463871 source:c:\users\linh_gao_bac\desktop\new folder\text\try\draw.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_main.h>
+	<SDL_ttf.h>
+	<string>
+
+1526463871 source:c:\users\linh_gao_bac\desktop\new folder\text\try\main.cpp
+	"rungame.h"
+	<SDL.h>
+	<SDL_main.h>
+	"Draw.h"
+	<string>
+
+1526463871 c:\users\linh_gao_bac\desktop\new folder\text\try\rungame.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1526463929 c:\users\linh_gao_bac\desktop\new folder\text\try\draw.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1526463870 source:c:\users\linh_gao_bac\desktop\new folder\text\try\random_number.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"Draw.h"
+	<string>
+
+1526463881 source:c:\users\linh_gao_bac\desktop\new folder\text\try\rungame.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"random_number.h"
+	<string>
+	"draw.h"
+
+1526463870 c:\users\linh_gao_bac\desktop\new folder\text\try\random_number.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+

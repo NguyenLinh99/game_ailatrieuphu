@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1526545733 source:c:\users\linh_gao_bac\desktop\new folder\text\altp\draw.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_image.h>
+	"Draw.h"
+	<fstream>
+
+1526482640 c:\users\linh_gao_bac\desktop\new folder\text\altp\draw.h
+	<SDL.h>
+	<SDL_main.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+
+1526500722 source:c:\users\linh_gao_bac\desktop\new folder\text\altp\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<SDL_main.h>
+	"Draw.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<mmsystem.h>
+

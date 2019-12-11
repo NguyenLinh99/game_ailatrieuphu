@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526057259 source:c:\users\linh_gao_bac\desktop\new folder\text\sound\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+

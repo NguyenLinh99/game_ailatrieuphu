@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1525749076 source:c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\cauhoi.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"Cauhoi.h"
+	"ChucNang.h"
+	"VeKhung.h"
+
+1525749075 c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\cauhoi.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"VeKhung.h"
+
+1525749076 c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\vekhung.h
+	<iostream>
+	<string>
+
+1525749076 c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\chucnang.h
+	<conio.h>
+	<iostream>
+
+1525749076 source:c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\chucnang.cpp
+	<iostream>
+	"ChucNang.h"
+	<windows.h>
+
+1525749076 source:c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"ChucNang.h"
+	"VeKhung.h"
+	"Menu.h"
+	"Cauhoi.h"
+
+1525749075 c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\menu.h
+	"ChucNang.h"
+	"VeKhung.h"
+
+1525749076 source:c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\menu.cpp
+	<windows.h>
+	"Menu.h"
+	"VeKhung.h"
+
+1525749076 source:c:\users\linh_gao_bac\desktop\new folder\text\trieuphu\vekhung.cpp
+	"VeKhung.h"
+	"ChucNang.h"
+	<iostream>
+

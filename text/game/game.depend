@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1526300517 source:c:\users\linh_gao_bac\desktop\new folder\text\game\main.cpp
+	"CauHoi.h"
+	<SDL.h>
+	<SDL_main.h>
+	"draw.h"
+	"rungame.h"
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<SDL_image.h>
+
+1526294502 source:c:\users\linh_gao_bac\desktop\new folder\text\game\draw.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_image.h>
+
+1525959397 c:\users\linh_gao_bac\desktop\new folder\text\game\cauhoi.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+
+1526294444 c:\users\linh_gao_bac\desktop\new folder\text\game\draw.h
+	<SDL.h>
+	<SDL_main.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+
+1526301035 source:c:\users\linh_gao_bac\desktop\new folder\text\game\cauhoi.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CauHoi.h"
+	<SDL.h>
+	"draw.h"
+	<mmsystem.h>
+
+1525942001 source:c:\users\linh_gao_bac\desktop\new folder\text\game\rungame.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CauHoi.h"
+	<string>
+	"draw.h"
+
+1525941819 c:\users\linh_gao_bac\desktop\new folder\text\game\rungame.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CauHoi.h"
+	<string>
+	"draw.h"
+	<SDL.h>
+
